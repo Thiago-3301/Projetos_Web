@@ -1,6 +1,6 @@
 Repositório de Projetos Web
 
-Este repositório foi criado para organizar diversos projetos web, desde pequenos protótipos até projetos um pouco mais complexos.
+Este repositório foi criado para organizar diversos projetos web e também mostrar os conhecimentos que venho adquirindo.
 
 
 Projetos Disponíveis:
